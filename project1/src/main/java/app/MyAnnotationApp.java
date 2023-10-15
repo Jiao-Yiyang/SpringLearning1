@@ -8,6 +8,5 @@ public class MyAnnotationApp {
     public static void main(String[] args) {
 
         SpringApplication.run(MyAnnotationApp.class, args);
-
     }
 }
