@@ -9,13 +9,13 @@ import javax.persistence.Id;
 import javax.validation.constraints.*;
 
 import lombok.Data;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Entity
+@Document
 public class Contact {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private String id;
     @NotNull
     @Size(min = 1, message = "名字至少一个字符")
     private String firstName;

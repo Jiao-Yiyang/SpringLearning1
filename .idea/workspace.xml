@@ -20,6 +20,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/86180/Desktop/23-fall/service/hw/homework",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,10 +33,22 @@
       <option name="presentableId" value="Default" />
       <updated>1697338915393</updated>
       <workItem from="1697338916802" duration="8000" />
+      <workItem from="1697461377929" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
